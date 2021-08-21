@@ -1,0 +1,158 @@
+/*CSS style sheet*/
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+#main-wrapper{
+	width:500px;
+	margin: 0 auto;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border: 2px solid #95a5a6;
+	top:50%;
+	opacity: 0.9;
+}
+.loginstyle{
+margin-top :200px;
+margin-left:460px;
+}
+	
+.avatar{
+	
+	width:150px;
+	text-align:center;
+}
+.tablestyle{
+	border:5px solid DarkOrange;
+	
+	
+}
+.logoinfaculty{
+
+    width:250px;
+	height:250px;
+	margin:10px;
+	padding-left:5px;
+
+    
+}
+
+
+.myform{
+	width:450px;
+	margin:0 auto;
+}
+.textbox{
+	width:80%;
+	overflow:hidden;
+	font-size:20px;
+	padding:8px 0;
+	margin:8px 0;
+	border-bottom:1px solid #4caf50;
+}
+.textbox i{
+	width:26px;
+	float:left;
+	text-align:center;
+}
+.textbox input{
+    border:none;
+	width:300px;
+    outline:none;
+    text-align:none;
+}
+.gradedata{
+	
+	width:50px;
+	
+}
+.lngkn{
+	width:430px;
+	height:6px;
+	margin:10px auto;
+	padding:15px;
+}
+.radiobtns{
+	margin: 10px;
+}
+
+.tablessp{
+
+align:center;
+border:1px;
+
+}
+.notifiaction{
+	width:430px;
+	height:100px;
+	margin:10px auto;
+	padding:15px;
+}
+.widthadjust{
+	width:1200px;
+}	
+	
+
+#login_btn{
+	margin-top:10px;
+	background-image:linear-gradient(to bottom right,#9980FA,#D980FA);
+	padding:5px;
+	color:white;
+	width:70%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#register_btn{
+	margin-bottom:20px;
+	margin-top:10px;
+	background-color:#3498db;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+#signup_btn{
+	margin-top:10px;
+	background-color:#3498db;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+#back_btn{
+	margin-top:10px;
+	background-color:#e74c3c;
+	padding:5px;
+	color:white;
+	width:30%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#logout_btn{
+	margin-top:10px;
+	background-color:#c0392b;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-bottom:20px;
+}
+
+#send_btn{
+	margin-top:10px;
+	background-color:#e74c3c;
+	padding:5px;
+	color:white;
+	width:30%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
